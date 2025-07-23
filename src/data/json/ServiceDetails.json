@@ -1,0 +1,1123 @@
+ {
+  "general-medicine": {
+    "name": "General Medicine",
+    "heroImage": "/general_medicine.webp",
+    "overview": {
+      "title": "Comprehensive Primary Care",
+      "description": "Our general medicine department provides comprehensive healthcare services for adults, focusing on prevention, diagnosis, and treatment of common medical conditions with personalized patient care.",
+      "stats": [
+        { "number": "25,000+", "label": "Patients Treated" },
+        { "number": "98%", "label": "Patient Satisfaction" },
+        { "number": "24/7", "label": "Emergency Care" },
+        { "number": "12+", "label": "Expert Physicians" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "General Medicine Department",
+      "image": "/hero3.jpg",
+      "message": "At our general medicine department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class medical care with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sumeet Jagtap is a General Physician and Internal Medicine in Satara Road, Chikhli and has an experience of 12 years in these fields. Dr. Sumeet Jagtap practices at Sai Sneh Hospital & Diagnostic Center Pvt. Ltd in Satara Road, Chikhli. He completed MBBS from Maharashtra Universtity of Health Sciences, Nashik in 2013 and MD - General Medicine from Bharati Vidyapeeth's Medical College, Chikhli in 2018.Some of the services provided by the doctor are: GENERAL MEDICINE,GENERAL PHYSICIAN,Gastroentrology,OBSTETRICS & GYNAECOLOGY and Cardiology etc."
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes general physicians, internists, family medicine specialists, and dedicated nursing staff.",
+      "members": [
+        {
+          "name": "Dr. Sumeet Jagtap",
+          "role": "Internal Medicine Specialist",
+          "image": "/sumeet_jagtap.jpeg"
+        },
+        {
+          "name": "Dr. Vrushali Wahg",
+          "role": "Family Medicine Physician",
+          "image": "/fdoc.jpg"
+        },
+        {
+          "name": "Dr. Vaibhav Lotake",
+          "role": "General Physician",
+          "image": "/mdoc.jpg"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Preventive Health Checkups",
+        "description": "Comprehensive health screenings to detect and prevent diseases early.",
+       
+        "image": "/gm_treatment1.jpg",
+        "benefits": ["Early detection", "Personalized care plans", "Expert consultation"]
+      },
+      {
+        "name": "Chronic Disease Management",
+        "description": "Specialized care for diabetes, hypertension, and other chronic conditions.",
+        "image": "/gm_treatment2.avif",
+        "benefits": [
+          "Improved quality of life",
+          "Regular monitoring",
+          "Medication management"
+        ]
+      },
+      {
+        "name": "Acute Illness Treatment",
+        "description": "Immediate care for infections, fever, and other acute medical conditions.",
+        "image": "/gm_treatment3.jpg",
+        "benefits": [
+          "Quick recovery",
+          "24/7 availability",
+          "Expert diagnosis"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Diabetes Management",
+        "image": "/user.jpg",
+        "quote": "The care I received at the general medicine department was exceptional. Dr. Jagtap and the team made my treatment journey comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Health Checkup",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my health screening, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "Hypertension Treatment",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "cardiology": {
+    "name": "Cardiology",
+    "heroImage": "/cardiology.avif",
+    "overview": {
+      "title": "Advanced Cardiac Care",
+      "description": "Our cardiology department provides comprehensive heart care using state-of-the-art technology and expert medical professionals. We specialize in both preventive and interventional cardiology.",
+      "stats": [
+        { "number": "10,000+", "label": "Procedures Performed" },
+        { "number": "95%", "label": "Success Rate" },
+        { "number": "24/7", "label": "Emergency Care" },
+        { "number": "15+", "label": "Expert Cardiologists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Cardiology Department",
+      "image": "/hero3.jpg",
+      "message": "At our cardiology department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class cardiac care with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes cardiologists, cardiac surgeons, interventional specialists, and dedicated nursing staff.",
+      "members": [
+        {
+          "name": "Dr. rajesh Wahg",
+          "role": "Interventional Cardiologist",
+          "image": "/rajesh_wahg.jpg"
+        },
+        {
+          "name": "Dr. Hasmukh Gujar",
+          "role": "Cardiac Surgeon",
+          "image": "/hasmukh_gujar.jpeg"
+        },
+        {
+          "name": "Dr.Sumeet Jagtap",
+          "role": "Electrophysiologist",
+          "image": "/sumeet_jagtap.jpeg"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Angioplasty & Stenting",
+        "description": "Minimally invasive procedure to open blocked arteries and restore blood flow to the heart.",
+        "image": "https://images.unsplash.com/photo-1551190822-a9333d879b1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+        "benefits": ["Quick recovery", "Minimal scarring", "High success rate"]
+      },
+      {
+        "name": "Bypass Surgery",
+        "description": "Surgical procedure to create alternate pathways for blood flow around blocked arteries.",
+        "image": "/c_treatment2.webp",
+        "benefits": [
+          "Long-term solution",
+          "Improved quality of life",
+          "Expert surgical team"
+        ]
+      },
+      {
+        "name": "Cardiac Catheterization",
+        "description": "Diagnostic procedure to examine heart function and blood vessel conditions.",
+        "image": "/c_treatment3.jpg",
+        "benefits": [
+          "Accurate diagnosis",
+          "Same-day procedure",
+          "Minimal discomfort"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Cardiac Surgery",
+        "image": "/user.jpg",
+        "quote": "The care I received at the cardiology department was exceptional. Dr. Jagtap and the team made my recovery journey comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Angioplasty",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my procedure, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "Heart Valve Replacement",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "obstetrics-gynecology": {
+    "name": "Obstetrics & Gynecology",
+    "heroImage": "/obstetrics_gynecology.jpg",
+    "overview": {
+      "title": "Comprehensive Women's Healthcare",
+      "description": "Our obstetrics and gynecology department provides complete women's healthcare services, from routine gynecological care to high-risk pregnancy management and advanced surgical procedures.",
+      "stats": [
+        { "number": "8,000+", "label": "Deliveries Performed" },
+        { "number": "97%", "label": "Success Rate" },
+        { "number": "24/7", "label": "Maternity Care" },
+        { "number": "18+", "label": "Expert Specialists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Obstetrics & Gynecology Department",
+      "image": "/hero3.jpg",
+      "message": "At our obstetrics and gynecology department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class women's healthcare with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes obstetricians, gynecologists, maternal-fetal medicine specialists, and dedicated nursing staff.",
+      "members": [
+        {
+          "name": "Dr. Pallavi Jagtap",
+          "role": "Obstetrician",
+          "image": "/pallavi.jpeg"
+        },
+        {
+          "name": "Dr. Shruti Palasdeokar",
+          "role": "Gynecological Surgeon",
+          "image": "/fdoc.jpg"
+        }
+      
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Normal & Cesarean Delivery",
+        "description": "Safe and comfortable delivery options with expert medical care and modern facilities.",
+        "image": "/og_treatment1.jpg",
+        "benefits": ["Expert care", "Modern facilities", "24/7 support"]
+      },
+      {
+        "name": "Laparoscopic Surgery",
+        "description": "Minimally invasive surgical procedures for gynecological conditions.",
+        "image": "/og_treatment2.jpg",
+        "benefits": [
+          "Minimal scarring",
+          "Quick recovery",
+          "Less pain"
+        ]
+      },
+      {
+        "name": "High-Risk Pregnancy Care",
+        "description": "Specialized care for complex pregnancies with advanced monitoring and treatment.",
+        "image": "/og_treatment3.jpg",
+        "benefits": [
+          "Expert monitoring",
+          "Advanced technology",
+          "Comprehensive care"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Gynecological Surgery",
+        "image": "/user.jpg",
+        "quote": "The care I received at the obstetrics & gynecology department was exceptional. Dr. Jagtap and the team made my treatment journey comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Normal Delivery",
+        "image": "/user.jpg",
+        "quote": "I was anxious about delivery, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "Laparoscopic Surgery",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "nephrology": {
+    "name": "Nephrology",
+    "heroImage": "/nephrology.jpeg",
+    "overview": {
+      "title": "Advanced Kidney Care",
+      "description": "Our nephrology department provides comprehensive kidney care services, including diagnosis and treatment of kidney diseases, dialysis services, and kidney transplant preparation.",
+      "stats": [
+        { "number": "5,000+", "label": "Patients Treated" },
+        { "number": "96%", "label": "Treatment Success" },
+        { "number": "24/7", "label": "Dialysis Services" },
+        { "number": "10+", "label": "Expert Nephrologists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Nephrology Department",
+      "image": "/hero3.jpg",
+      "message": "At our nephrology department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class kidney care with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes nephrologists, dialysis specialists, transplant coordinators, and dedicated nursing staff.",
+      "members": [
+        {
+          "name": "Dr. Suraj Lunawat",
+          "role": "Interventional Nephrologist",
+          "image": "/suraj_lunawat.jpg"
+        },
+     
+        {
+          "name": "Dr.Satyen Dobhada",
+          "role": "Nephrologist",
+          "image": "/mdoc.jpg"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Hemodialysis",
+        "description": "Advanced hemodialysis treatment for patients with kidney failure using state-of-the-art equipment.",
+        "image": "/news2.webp",
+        "benefits": ["Advanced equipment", "Expert care", "Comfortable environment"]
+      },
+      {
+        "name": "Kidney Biopsy",
+        "description": "Minimally invasive procedure to diagnose kidney diseases with precision.",
+        "image": "/n_treatment2.jpg",
+        "benefits": [
+          "Accurate diagnosis",
+          "Minimal discomfort",
+          "Quick procedure"
+        ]
+      },
+      {
+        "name": "Chronic Kidney Disease Management",
+        "description": "Comprehensive care plan for managing chronic kidney disease and preventing progression.",
+        "image": "/n_treatment3.jpeg",
+        "benefits": [
+          "Personalized treatment", 
+          "Regular monitoring",
+          "Lifestyle guidance"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Hemodialysis",
+        "image": "/user.jpg",
+        "quote": "The care I received at the nephrology department was exceptional. Dr. Jagtap and the team made my treatment journey comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Kidney Biopsy",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my procedure, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "CKD Management",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "gastroenterology": {
+    "name": "Gastroenterology",
+    "heroImage": "/Gastroenterology.jpg",
+    "overview": {
+      "title": "Advanced Digestive Care",
+      "description": "Our gastroenterology department provides comprehensive digestive healthcare services, specializing in diagnosis and treatment of gastrointestinal, liver, and pancreatic disorders.",
+      "stats": [
+        { "number": "12,000+", "label": "Procedures Performed" },
+        { "number": "94%", "label": "Treatment Success" },
+        { "number": "24/7", "label": "Emergency GI Care" },
+        { "number": "14+", "label": "Expert Specialists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Gastroenterology Department",
+      "image": "/hero3.jpg",
+      "message": "At our gastroenterology department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class digestive care with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes gastroenterologists, hepatologists, endoscopists, and dedicated nursing staff.",
+      "members": [
+        {
+          "name": "Dr. Pallavi Jagtap",
+          "role": "Interventional Gastroenterologist",
+          "image": "/pallavi.jpeg"
+        },
+        {
+          "name": "Dr. Sunil Jagtap",
+          "role": "Hepatologist",
+          "image": "/hero3.jpg"
+        },
+        {
+          "name": "Dr.Sumeet Jagtap",
+          "role": "Therapeutic Endoscopist",
+          "image": "/sumeet_jagtap.jpeg"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Endoscopy & Colonoscopy",
+        "description": "Advanced diagnostic and therapeutic endoscopic procedures for gastrointestinal conditions.",
+        "image": "/g_treatment1.jpg",
+        "benefits": ["Minimally invasive", "Accurate diagnosis", "Same-day procedure"]
+      },
+      {
+        "name": "Liver Disease Treatment",
+        "description": "Comprehensive care for various liver conditions including hepatitis, cirrhosis, and fatty liver disease.",
+        "image": "/g_treatment2.webp",
+        "benefits": [
+          "Expert care",
+          "Advanced treatment",
+          "Regular monitoring"
+        ]
+      },
+      {
+        "name": "IBD Management",
+        "description": "Specialized treatment for inflammatory bowel diseases including Crohn's disease and ulcerative colitis.",
+        "image": "/g_treatment3.png",
+        "benefits": [
+          "Personalized therapy",
+          "Symptom control",
+          "Improved quality of life"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Colonoscopy",
+        "image": "/user.jpg",
+        "quote": "The care I received at the gastroenterology department was exceptional. Dr. Jagtap and the team made my procedure comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Liver Treatment",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my liver condition, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "IBD Management",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "medical-oncology": {
+    "name": "Medical Oncology",
+    "heroImage": "/medical_ncology.jpg",
+    "overview": {
+      "title": "Comprehensive Cancer Care",
+      "description": "Our medical oncology department provides state-of-the-art cancer treatment with a multidisciplinary approach, offering chemotherapy, immunotherapy, and targeted therapy options.",
+      "stats": [
+        { "number": "3,000+", "label": "Patients Treated" },
+        { "number": "92%", "label": "Treatment Response" },
+        { "number": "24/7", "label": "Emergency Care" },
+        { "number": "16+", "label": "Expert Oncologists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Medical Oncology Department",
+      "image": "/hero3.jpg",
+      "message": "At our medical oncology department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class cancer care with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes medical oncologists, hematologists, radiation oncologists, and dedicated nursing staff.",
+      "members": [
+        {
+          "name": "Dr. Chetan Deshmukh",
+          "role": "Medical Oncologist",
+          "image": "/chetan_deshmukh.webp"
+        }
+      
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Chemotherapy",
+        "description": "Advanced chemotherapy treatments using the latest protocols and supportive care measures.",
+        "image": "/mo_treatment1.jpg",
+        "benefits": ["Latest protocols", "Supportive care", "Expert monitoring"]
+      },
+      {
+        "name": "Immunotherapy",
+        "description": "Cutting-edge immunotherapy treatments that harness the body's immune system to fight cancer.",
+        "image": "/mo_treatment2.jpeg",
+        "benefits": [
+          "Advanced treatment",
+          "Fewer side effects",
+          "Personalized approach"
+        ]
+      },
+      {
+        "name": "Targeted Therapy",
+        "description": "Precision medicine approach using targeted drugs that attack specific cancer cell features.",
+        "image": "/mo_treatment3.jpg",
+        "benefits": [
+          "Precision treatment",
+          "Reduced toxicity",
+          "Better outcomes"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Chemotherapy",
+        "image": "/user.jpg",
+        "quote": "The care I received at the medical oncology department was exceptional. Dr. Jagtap and the team made my treatment journey comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Immunotherapy",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my cancer treatment, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "Targeted Therapy",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "radiology": {
+    "name": "Radiology",
+    "heroImage": "/radiology.avif",
+    "overview": {
+      "title": "Advanced Medical Imaging",
+      "description": "Our radiology department provides comprehensive diagnostic imaging services using cutting-edge technology and expert radiologists for accurate diagnosis and treatment planning.",
+      "stats": [
+        { "number": "50,000+", "label": "Scans Performed" },
+        { "number": "99%", "label": "Accuracy Rate" },
+        { "number": "24/7", "label": "Emergency Imaging" },
+        { "number": "20+", "label": "Expert Radiologists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Radiology Department",
+      "image": "/hero3.jpg",
+      "message": "At our radiology department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class imaging services with compassion and excellence.",
+      "credentials": [
+        " Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes diagnostic radiologists, interventional radiologists, nuclear medicine specialists, and dedicated technologists.",
+      "members": [
+        {
+          "name": "Dr. Saurabh Chaudhuri",
+          "role": "Interventional Radiologist",
+          "image": "/saurabh_chadhuri.jpg"
+        }
+      
+      ]
+    },
+    "treatments": [
+      {
+        "name": "CT & MRI Scanning",
+        "description": "High-resolution computed tomography and magnetic resonance imaging for detailed anatomical visualization.",
+        "image": "/carm.jpg",
+        "benefits": ["High resolution", "Fast scanning", "Accurate diagnosis"]
+      },
+      {
+        "name": "Interventional Radiology",
+        "description": "Minimally invasive procedures guided by advanced imaging for treatment of various conditions.",
+        "image": "/slice.jpg",
+        "benefits": [
+          "Minimally invasive",
+          "Precise targeting",
+          "Quick recovery"
+        ]
+      },
+      {
+        "name": "Nuclear Medicine",
+        "description": "Advanced nuclear imaging techniques for functional assessment of organs and disease detection.",
+        "image": "/tesla.jpg",
+        "benefits": [
+          "Functional imaging",
+          "Early detection",
+          "Precise diagnosis"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "MRI Scan",
+        "image": "/user.jpg",
+        "quote": "The care I received at the radiology department was exceptional. Dr. Jagtap and the team made my imaging experience comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "CT Scan",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my scan, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "Interventional Procedure",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "pediatrics": {
+    "name": "Pediatrics",
+    "heroImage": "/news3.avif",
+    "overview": {
+      "title": "Comprehensive Child Healthcare",
+      "description": "Our pediatrics department provides specialized healthcare services for children from birth to adolescence, focusing on preventive care, treatment of childhood diseases, and developmental support.",
+      "stats": [
+        { "number": "15,000+", "label": "Children Treated" },
+        { "number": "98%", "label": "Parent Satisfaction" },
+        { "number": "24/7", "label": "Emergency Care" },
+        { "number": "22+", "label": "Pediatric Specialists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Pediatrics Department",
+      "image": "/hero3.jpg",
+      "message": "At our pediatrics department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class child healthcare with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes pediatricians, neonatologists, pediatric surgeons, and dedicated nursing staff.",
+      "members": [
+        {
+          "name": "Dr. Ashwin Borade",
+          "role": "Pediatric Cardiologist",
+          "image": "/ashwin.jpg"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Newborn Care",
+        "description": "Comprehensive care for newborns including routine checkups, vaccinations, and specialized neonatal intensive care.",
+        "image": "/p_treatment1.jpg",
+        "benefits": ["Expert neonatal care", "NICU facilities", "24/7 monitoring"]
+      },
+      {
+        "name": "Pediatric Surgery",
+        "description": "Specialized surgical procedures for children with congenital and acquired conditions.",
+        "image": "/p_treatment2.jpg",
+        "benefits": [
+          "Child-friendly approach",
+          "Minimally invasive techniques",
+          "Expert surgical team"
+        ]
+      },
+      {
+        "name": "Vaccination Programs",
+        "description": "Complete immunization schedules and travel vaccines to protect children from preventable diseases.",
+        "image": "/p_treatment3.jpg",
+        "benefits": [
+          "Complete protection",
+          "Safe vaccines",
+          "Expert guidance"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Child Surgery",
+        "image": "/user.jpg",
+        "quote": "The care my child received at the pediatrics department was exceptional. Dr. Jagtap and the team made the treatment journey comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Newborn Care",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my newborn's care, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "Vaccination",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "orthopedic": {
+    "name": "Orthopedic Specialist",
+    "heroImage": "/orthopedic.jpg",
+    "overview": {
+      "title": "Advanced Bone & Joint Care",
+      "description": "Our orthopedic department provides comprehensive musculoskeletal care, including joint replacement, sports medicine, trauma surgery, and spine treatments using advanced surgical techniques.",
+      "stats": [
+        { "number": "7,000+", "label": "Surgeries Performed" },
+        { "number": "96%", "label": "Success Rate" },
+        { "number": "24/7", "label": "Trauma Care" },
+        { "number": "18+", "label": "Expert Specialists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Orthopedic Department",
+      "image": "/hero3.jpg",
+      "message": "At our orthopedic department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class musculoskeletal care with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes orthopedic surgeons, sports medicine specialists, spine surgeons, and dedicated physiotherapists.",
+      "members": [
+        {
+          "name": "Dr. Ganesh Jagdale",
+          "role": "Joint Replacement Surgeon",
+          "image": "/ganesh.jpg"
+        },
+        {
+          "name": "Dr. Shivraj Konde",
+          "role": "Spine Surgeon",
+          "image": "/shivraj.jpg"
+        },
+        {
+          "name": "Dr. Abhishek Mahajan",
+          "role": "Sports Medicine Specialist",
+          "image": "/abhishek.jpg"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Joint Replacement",
+        "description": "Advanced knee, hip, and shoulder replacement surgeries using latest implants and minimally invasive techniques.",
+        "image": "/o_treatment1.jpg",
+        "benefits": ["Latest implants", "Minimally invasive", "Quick recovery"]
+      },
+      {
+        "name": "Spine Surgery",
+        "description": "Comprehensive spine treatments including disc replacement, fusion surgeries, and minimally invasive procedures.",
+        "image": "/o_treatment2.jpg",
+        "benefits": [
+          "Advanced techniques",
+          "Pain relief",
+          "Improved mobility"
+        ]
+      },
+      {
+        "name": "Sports Medicine",
+        "description": "Specialized treatment for sports injuries including arthroscopy, ligament reconstruction, and rehabilitation.",
+        "image": "/o_treatment3.jpg",
+        "benefits": [
+          "Quick return to sports",
+          "Advanced arthroscopy",
+          "Comprehensive rehab"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Knee Replacement",
+        "image": "/user.jpg",
+        "quote": "The care I received at the orthopedic department was exceptional. Dr. Jagtap and the team made my surgery journey comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Spine Surgery",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my spine surgery, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "Sports Injury Treatment",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  },
+  "urology": {
+    "name": "Urology",
+    "heroImage": "/urology.webp",
+    "overview": {
+      "title": "Advanced Urological Care",
+      "description": "Our urology department provides comprehensive care for urological conditions affecting the urinary tract and male reproductive system, using minimally invasive techniques and advanced technology.",
+      "stats": [
+        { "number": "6,000+", "label": "Procedures Performed" },
+        { "number": "95%", "label": "Success Rate" },
+        { "number": "24/7", "label": "Emergency Care" },
+        { "number": "12+", "label": "Expert Urologists" }
+      ]
+    },
+    "doctor": {
+      "name": "Dr. Sunil Jagtap",
+      "title": "Urology Department",
+      "image": "/hero3.jpg",
+      "message": "At our urology department, we believe in providing personalized care that addresses not just the symptoms, but the whole person. Our team is dedicated to delivering world-class urological care with compassion and excellence.",
+      "credentials": [
+        "Homoeopath",
+        "39 Years Experience Overall"
+      ],
+      "info": "Dr. Sunil Jagtap is the owner of Sai Sneh Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital.    "
+    },
+    "team": {
+      "description": "Our multidisciplinary team includes urologists, uro-oncologists, pediatric urologists, and dedicated nursing staff.",
+      "members": [
+        {
+          "name": "Dr. Suraj Lunawat",
+          "role": "Interventional Nephrologist",
+          "image": "/suraj_lunawat.jpg"
+        },
+     
+        {
+          "name": "Dr.Satyen Dobhada",
+          "role": "Nephrologist",
+          "image": "/mdoc.jpg"
+        }
+      ]
+    },
+    "treatments": [
+      {
+        "name": "Kidney Stone Treatment",
+        "description": "Advanced stone removal techniques including laser lithotripsy, PCNL, and minimally invasive procedures.",
+        "image": "/u_treatment1.jpg",
+        "benefits": ["Laser technology", "Minimally invasive", "Quick recovery"]
+      },
+      {
+        "name": "Prostate Surgery",
+        "description": "Comprehensive prostate treatments including TURP, laser surgery, and robotic-assisted procedures.",
+        "image": "/u_treatment2.jpg",
+        "benefits": [
+          "Advanced techniques",
+          "Reduced complications",
+          "Faster healing"
+        ]
+      },
+      {
+        "name": "Laparoscopic Surgery",
+        "description": "Minimally invasive laparoscopic procedures for various urological conditions with precision and care.",
+        "image": "/operation7.jpg",
+        "benefits": [
+          "Minimal scarring",
+          "Shorter hospital stay",
+          "Precise surgery"
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Artis-Zeego Endovascular Surgical C-Arm",
+        "image": "/carm.jpg",
+        "description": "Advanced surgical imaging system for precise interventional procedures"
+      },
+      {
+        "name": "256 Slice CT",
+        "image": "/slice.jpg",
+        "description": "High-resolution computed tomography for detailed diagnostic imaging"
+      },
+      {
+        "name": "3.0 Tesla MRI",
+        "image": "/tesla.jpg",
+        "description": "Powerful magnetic resonance imaging for exceptional anatomical detail"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Rajesh Sharma",
+        "age": "54",
+        "treatment": "Prostate Surgery",
+        "image": "/user.jpg",
+        "quote": "The care I received at the urology department was exceptional. Dr. Jagtap and the team made my treatment journey comfortable and successful.",
+        "rating": 5
+      },
+      {
+        "name": "Priya Patel",
+        "age": "48",
+        "treatment": "Kidney Stone Treatment",
+        "image": "/user.jpg",
+        "quote": "I was anxious about my procedure, but the medical team's expertise and compassionate care put me at ease. I'm grateful for their support.",
+        "rating": 5
+      },
+      {
+        "name": "Amit Kumar",
+        "age": "62",
+        "treatment": "Laparoscopic Surgery",
+        "image": "/user.jpg",
+        "quote": "State-of-the-art facilities and world-class medical care. The follow-up care has been thorough and personal. Highly recommended!",
+        "rating": 5
+      }
+    ]
+  }
+}

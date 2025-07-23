@@ -1,0 +1,26 @@
+/* Hide scrollbar for Chrome, Safari and Opera */
+
+.team-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem; /* Corresponds to gap-8 in Tailwind */
+}
+
+.hero-service-image {
+  object-fit:cover;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
