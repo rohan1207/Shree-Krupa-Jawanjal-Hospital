@@ -23,7 +23,7 @@ const app = express();
 
 // Enable CORS with proper options
 // Enable CORS with proper options
-const allowedOrigins = [ 'http://localhost:5174', 'http://localhost:5175' ];
+const allowedOrigins = [ 'http://localhost:5174', 'http://localhost:5175' ,'https://shree-krupa-jawanjal-hospital.onrender.com'];
 if (process.env.FRONTEND_URL) {
   allowedOrigins.push(process.env.FRONTEND_URL);
 }
