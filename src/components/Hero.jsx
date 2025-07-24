@@ -16,8 +16,8 @@ const Hero = () => {
   };
 
   const hospitalImages = [
-   "/hero1.jpg",
-   "/hero2.jpg",
+   "/hero1.png",
+   "/hero2.png",
    "/hero3.jpg",
    "/hero4.jpg",
 

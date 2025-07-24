@@ -77,7 +77,7 @@ export default function BookAppointment() {
       "Dr. Rohini Khatpe",
     ],
     Dermatology: ["Dr. Satyawan Choure"],
-    Homeopathy: ["Dr. Vikas Khatpe", "Dr. Sunil Jagtap"],
+    Homeopathy: ["Dr. Vikas Khatpe", "Dr. Sandeep J. Jawanjal"],
     Physiotherapy: ["Dr. Pooja Durve", "Dr. Hemant Welkar"],
     Radiology: ["Dr. Saurabh Chaudhuri"],
     "Chest Medicine": ["Dr. Suhas Kulkarni"],

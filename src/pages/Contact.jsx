@@ -37,7 +37,7 @@ const Contact = () => {
       <div className="relative w-full h-[400px] sm:h-[500px] overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-teal-600/10 to-transparent z-10"></div>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.821886172217!2d73.85707627496105!3d18.446394482632765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eace9ec70b25%3A0xc5ef05bf96d842cb!2sSai%20Sneh%20Hospital!5e0!3m2!1sen!2sin!4v1750075126397!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3740.9225866110564!2d76.2583854750119!3d20.34481648113887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bda10059da067bb%3A0xb49850c6a6f8a42c!2sShri%20Krupa%20Jawanjal%20Hospital%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1753341110703!5m2!1sen!2sin"
           width="100%"
           height="100%"
           style={{ border: 0 }}
@@ -69,8 +69,8 @@ const Contact = () => {
             {
               icon: MapPin,
               title: "Location",
-              content: "123 Hospital Street, Chikhli, India",
-              link: "https://maps.google.com",
+              content: "Shree Krupa Jawanjal Hospital, Chikhli, India",
+              link: "https://maps.app.goo.gl/ALpqVHobJGy1HeJ16",
               color: "from-teal-500 to-teal-600",
             },
           ].map((item, index) => (

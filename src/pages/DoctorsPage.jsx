@@ -23,6 +23,15 @@ import {
 
 const doctors = [
   {
+    name: "Dr. Sandeep J. Jawanjal",
+    image: "/hero3.jpg",
+    experience: "37 years of experience",
+    specialties: ["Homeopathy", "General Medicine"],
+    description:
+      "Dr. Sandeep J. Jawanjal is the owner of Shri Krupa Jawanjal Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital with over three decades of experience in providing comprehensive healthcare.",
+    role: "Owner & Senior Consultant",
+  },
+  {
     name: "Dr. Sumeet Jagtap",
     image: "/sumeet_jagtap.jpeg",
     experience: "8 years of experience",
@@ -38,15 +47,7 @@ const doctors = [
     description:
       "Dr. Pallavi Jagtap is a reliable and one of the best Gynecologist in Chikhli Chikhli. She completed her MBBS from Smt Kashibai Navale Medical College and post-graduation in obstetrics and gynecology from Krishna Institute of Medical Sciences, Karad. She specializes in high-risk pregnancy and laparoscopic surgeries.",
   },
-  {
-    name: "Dr. Sunil Jagtap",
-    image: "/hero3.jpg",
-    experience: "37 years of experience",
-    specialties: ["Homeopathy", "General Medicine"],
-    description:
-      "Dr. Sunil Jagtap is the owner of Shri Krupa Jawanjal Hospital & Diagnostic Centre Pvt Ltd. He practices as a Homeopathy doctor in the Hospital with over three decades of experience in providing comprehensive healthcare.",
-    role: "Owner & Senior Consultant",
-  },
+
 ];
 
 const services = [

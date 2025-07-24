@@ -799,7 +799,7 @@ const AppointmentSection = () => {
 
   const doctors = [
     {
-      name: "Dr. Sunil Jagtap",
+      name: "Dr. Sandeep J. Jawanjal",
       speciality: "Cardiologist",
       nextSlot: "Today, 4:00 PM",
       rating: "4.8",

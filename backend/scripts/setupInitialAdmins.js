@@ -1,23 +1,14 @@
 const mongoose = require('mongoose');
 const Admin = require('../models/Admin');
 
-const MONGODB_URI = 'mongodb+srv://kkassociates1207:bPvTTDpOslCL5M8h@cluster0.tivtk5n.mongodb.net/Shri Krupa Jawanjal_hospital';
+const MONGODB_URI = 'mongodb+srv://rohanambhore721:iisvmUMkPpdNqwjh@cluster0.4yphuff.mongodb.net/jawanjal';
 
 const adminCredentials = [
+ 
   {
-    name: 'Dr. Sumeet Jagtap',
-    adminId: 'sumeet@123',
-    password: 'jagtap@123'
-  },
-  {
-    name: 'Dr. Pallavi Jagtap',
-    adminId: 'pallavi@123',
-    password: 'jagtap@123'
-  },
-  {
-    name: 'Dr. Sunil Jagtap',
-    adminId: 'sunil@123',
-    password: 'jagtap@123'
+    name: 'Dr. Sandeep J. Jawanjal',
+    adminId: 'sandeep@123',
+    password: 'jawanjal@123'
   }
 ];
 
